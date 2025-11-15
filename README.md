@@ -4,7 +4,7 @@
 - 📫 How to reach me: 
           email: nevio.1999@icloud.com
 
-Application Development Analyst focused on Blockchain for Accenture.
+Application Development also focused on Blockchain and A/I.
 
 <!---
 Nevio-Kevin-Annaloro/Nevio-Kevin-Annaloro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
